@@ -97,7 +97,7 @@ section p {
 }
 
 .social-links li a {
-    text-decoration: none; /*#FIXME Não sumiu o underline */
+    text-decoration: none; /*#COMPLETE Não sumiu o underline */
 }
 
 #contact .container {
