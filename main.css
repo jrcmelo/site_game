@@ -22,8 +22,7 @@ header {
     color: #ecf0f1;
 }
 
-header nav li,
-section h2 {
+header nav li {
     display: inline;
     font-size: 24px;
 }
@@ -72,7 +71,7 @@ section {
 }
 
 section h2 {
-    margin-bottom: 16px; /*#FIXME Não cria o espaçamento */   
+    margin-bottom: 16px; /*#COMPLETE Não cria o espaçamento */   
 }
 
 section {
